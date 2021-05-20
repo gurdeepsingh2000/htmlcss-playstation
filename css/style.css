@@ -20,7 +20,7 @@
 }
 
 .nav-item{
-    font-size: 20px;
+    font-size: 18px;
     color: black;
 }
 
@@ -32,3 +32,56 @@
     font-size: 28px;
     color: black;
 }
+
+header{
+        background-image: url(../img/jumbo-bg.png);
+        background-size: cover;
+        background-position: center;
+        height: 835px;
+        padding-top: 480px;
+}
+
+
+.buy-now{
+    background-color: #CD3D0F ;
+}
+
+
+.content-header p{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+
+
+
+.content-header h1{
+    color: white;
+}
+
+.content-header .logo-text{
+    width: 480px;
+}
+
+.logo-text img{
+    width : 70%;
+    padding-bottom: 30px
+}
+
+.content-header h1{
+    padding-bottom: 20px;
+}
+
+.content-header p{
+    padding-bottom: 20px;
+}
+
+.button-slm{
+    color: #fff;
+    padding: 8px 10px;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+}
+
