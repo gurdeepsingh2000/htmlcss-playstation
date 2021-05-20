@@ -13,8 +13,22 @@
     width: 100%;
 }
 
-.navbar-brand{
+.nav-link .fas{
+    font-size: 10px;
+    color: grey;
+    margin-left: 2px;
+}
+
+.nav-item{
+    font-size: 20px;
     color: black;
 }
 
+.txt-item{
+    color: black;
+}
 
+.search-icon .fas{
+    font-size: 28px;
+    color: black;
+}
