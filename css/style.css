@@ -1,0 +1,20 @@
+.black-bar{
+    background-color:black;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.sony-logo{
+    width: 100px;
+    margin: 12px 0px;
+}
+
+.sony-logo img{
+    width: 100%;
+}
+
+.navbar-brand{
+    color: black;
+}
+
+
