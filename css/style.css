@@ -41,19 +41,15 @@ header{
         padding-top: 480px;
 }
 
-
 .buy-now{
     background-color: #CD3D0F ;
 }
-
 
 .content-header p{
     font-weight: bold;
     font-size: 20px;
     color: white;
 }
-
-
 
 .content-header h1{
     color: white;
@@ -121,10 +117,22 @@ header{
     font-weight: 600;
 }
 
-
-
-.text-heading p{
+.sub-text{
     font-size: 22px;
     color: grey;
+}
+
+.more-info{
+    background-color:#2D64E6;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.img-container img{
+    width: 100%;
+}
+
+.box-gadget img{
+    width: 100%;
 }
 
