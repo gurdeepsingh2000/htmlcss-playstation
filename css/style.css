@@ -136,3 +136,16 @@ header{
     width: 100%;
 }
 
+.grid-gadgets{
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+
+.img-gadgets{
+    text-align: center;
+}
+
+.img-gadgets img{
+    width: 100%;
+}
+
