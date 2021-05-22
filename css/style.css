@@ -34,15 +34,16 @@
 }
 
 header{
-        background-image: url(../img/jumbo-bg.png);
-        background-size: cover;
-        background-position: center;
-        height: 835px;
-        padding-top: 480px;
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+    background-position: center;
+    height: 835px;
+    padding-top: 480px;
 }
 
 .buy-now{
     background-color: #CD3D0F ;
+
 }
 
 .content-header p{
@@ -80,7 +81,6 @@ header{
     font-weight: bold;
     text-decoration: none;
 }
-
 
 .box-img img{
     width: 100%;
@@ -120,6 +120,7 @@ header{
 .sub-text{
     font-size: 22px;
     color: grey;
+    font-weight: 600;
 }
 
 .more-info{
@@ -132,6 +133,7 @@ header{
     width: 100%;
 }
 
+
 .box-gadget img{
     width: 100%;
 }
@@ -142,10 +144,37 @@ header{
 }
 
 .img-gadgets{
-    text-align: center;
+    opacity: 0.8;
+    border-bottom: #fff 2px solid;
+}
+
+.img-gadgets:hover{
+    opacity: 1;
+    border-bottom: #0072ce 2px solid;
 }
 
 .img-gadgets img{
     width: 100%;
 }
 
+
+.it-takes-two{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 835px;
+    padding-top: 200px;
+}
+
+.bg-gray{
+    background-color: #1F1F1F;
+}
+
+.box-game{
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.box-game img{
+    width: 100%;
+}
