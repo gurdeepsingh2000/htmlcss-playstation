@@ -4,6 +4,14 @@
     flex-direction: row-reverse;
 }
 
+.sticky-nav{
+    position: sticky;
+    z-index: 1001;
+    top: 0;
+    background: white;
+}
+
+
 .sony-logo{
     width: 100px;
     margin: 12px 0px;
@@ -41,9 +49,15 @@ header{
     padding-top: 480px;
 }
 
-.buy-now{
-    background-color: #CD3D0F ;
-
+.button-slm{
+    color: #fff;
+    padding: 8px 16px;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: 600;
+    background-color: #C33D0E;
+    text-decoration: none;
+    border: none;
 }
 
 .content-header p{
@@ -71,15 +85,6 @@ header{
 
 .content-header p{
     padding-bottom: 20px;
-}
-
-.button-slm{
-    color: #fff;
-    padding: 8px 10px;
-    border-radius: 20px;
-    text-align: center;
-    font-weight: bold;
-    text-decoration: none;
 }
 
 .box-img img{
@@ -120,12 +125,6 @@ header{
 .sub-text{
     font-size: 22px;
     color: grey;
-    font-weight: 600;
-}
-
-.more-info{
-    background-color:#2D64E6;
-    font-size: 18px;
     font-weight: 600;
 }
 
@@ -235,3 +234,15 @@ footer{
     width: 200px;
 }
 
+.bg-blue{
+    background-color: #2D64E6;
+}
+
+.graywhite{
+    background-color: #D9DADC;
+    color: #2E65E6;
+}
+
+.buttontxt-bl{
+    color: black;
+}
