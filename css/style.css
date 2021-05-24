@@ -178,3 +178,27 @@ header{
 .box-game img{
     width: 100%;
 }
+
+.bg-white-gray{
+    background-color: #BEBCBB ;
+}
+
+.psplus-container{
+    width: 70%;
+}
+
+.psplus-container img{
+    width: 100%;
+}
+
+.txt-p{
+    font-size: 18px;
+    color: #fff;
+    font-weight: 600;
+}
+
+.bg-dark-blue{
+    background-color: #161C3B
+}
+
+
