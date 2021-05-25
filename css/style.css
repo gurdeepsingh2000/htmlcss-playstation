@@ -9,6 +9,8 @@
     z-index: 1001;
     top: 0;
     background: white;
+    position: -webkit-sticky;
+    web
 }
 
 
@@ -45,7 +47,6 @@ header{
     background-image: url(../img/jumbo-bg.png);
     background-size: cover;
     background-position: center;
-    height: 835px;
     padding-top: 480px;
 }
 
@@ -161,7 +162,6 @@ header{
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-size: cover;
     background-position: center;
-    height: 835px;
     padding-top: 200px;
 }
 
@@ -245,4 +245,12 @@ footer{
 
 .buttontxt-bl{
     color: black;
+}
+
+.log-in{
+    color: #fff;
+    background-color: #363636;
+    padding: 8px 16px;
+    border-radius: 20px;
+    text-align: center;
 }
