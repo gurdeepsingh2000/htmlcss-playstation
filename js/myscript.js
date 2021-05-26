@@ -1,0 +1,1 @@
+document.getElementById ('ps5-title').innerHTML ='La nuova Console';
